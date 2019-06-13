@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>Tokyo City</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+	</head>
+	<script>
+	console.log
+	</script>
+	<body>
+		<nav aria-label="breadcrumb">
+			<ol class="breadcrumb">
+			 <li class="breadcrumb-item"><a href="P.1 Home.html">Home</a></li>
+				<li class="breadcrumb-item"><a href="P.2 Public Transports.html">Transports</a></li>
+				<li class="breadcrumb-item"><a href="P.3 Attractions.html">Attractions</a></li>
+				<li class="breadcrumb-item"><a href="P.4 Things to do.html">Things to do</a></li>
+				<li class="breadcrumb-item"><a href="P.5 Food.html">Food</a></li>
+				<li class="breadcrumb-item"><a href="TokyoCity@Gmail.com">Email enquiry</a></li>
+
+			</ol>
+		</nav>
+		<center><h1>What makes Tokyo one of the best?<rb</rb></h1>
+
+		<div class="container">
+ 			<div class="row">
+    				<div class="col-sm-4">
+				<img src="https://raw.githubusercontent.com/ViperVenomZ/TokyoCity/master/Imgs/Tokyo%201.jpg" alt="Tokyo city 1" width="350" height="250">
+      				<h3>The largest city</h3>
+      				<p>Tokyo takes the crown for being the largest city to exist. With that said, you already know there's everything to expect. Hosting over 36 million people with endless span of buildings, all ranging in different sizes and shapes. </p>
+    			</div>
+
+    			<div class="col-sm-4">
+				<img src="https://raw.githubusercontent.com/ViperVenomZ/TokyoCity/master/Imgs/Tokyo%202.jpg" alt="Tokyo city 2" width="350" height="250">
+      				<h3>One of the safest cities to live in</h3>
+      				<p>Praised many times by tourists and the residents as the one of the safest cities to live in. This comes with the little to none crime rate, this continues with extreme cleanliness, and the regulated laws play a good role here.   </p>
+    			</div>
+
+    			<div class="col-sm-4">
+				<img src="https://raw.githubusercontent.com/ViperVenomZ/TokyoCity/master/Imgs/Tokyo%203.jpg" alt="Tokyo city 3" width="350" height="250">
+      				<h3>There's literally everything! </h3>
+      				<p>There is so much you can do in Tokyo city. The cuture is vibrant, and is always expanding! You can find some of the craziest conventions, and there's something for everything. The city is colourful, do what your heart desires!   </p>
+
+    			</div>
+				<body>
+				
+				<img src="https://raw.githubusercontent.com/ViperVenomZ/TokyoCity/master/Imgs/Tokyo%20Loop.gif" alt="Tokyo city life" width="500" height="281">
+				
+				
+				<body>
+
+
+
+
+
+		  </div>
+	</body>
+</html>
